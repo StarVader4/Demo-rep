@@ -7,3 +7,6 @@ Because bees don't care what humans think is impossible.
 
 # Subheader
 Yellow-Black, Yellow-Black, Yellow-Black, Yellow-Black, ooh Black and Yellow let's shake it up a little
+
+## Local Development
+1. Something has happened
