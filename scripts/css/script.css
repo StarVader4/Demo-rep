@@ -32,3 +32,19 @@ li.linav a.active{
 li.linav a:hover{
     background-color: rgb(51, 51, 51);
 }
+span.subtitle{
+    font-size: 15pt;
+    font-family:sans-serif;
+}
+span.maintitle{
+    font-size: 20pt;
+    font-family:sans-serif;
+}
+a.nav{
+    font-size: 11pt;
+    font-family:sans-serif;
+    text-decoration: none;
+}
+a.nav:hover{
+    color:rgb(155,200,4);
+}
