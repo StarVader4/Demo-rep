@@ -1,0 +1,10 @@
+#boxes{
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    border: 2px solid rgb(83,150,230);
+    padding: 10px;
+    height: 200px;
+    width: 1000px;
+    background-color: rgb(83,150,230,55%);
+}
