@@ -11,14 +11,14 @@ li.linav{
 }
 li.linav a{
     display: block;
-    color:white;
+    color:rgb(220, 220, 220);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 li.linav a.active{
     display: block;
-    color:rgb(220, 220, 220);
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
